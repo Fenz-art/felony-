@@ -1,0 +1,5 @@
+/build/
+/proxy.log
+/metrics.csv
+/core
+/core.*
